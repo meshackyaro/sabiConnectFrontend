@@ -1,4 +1,4 @@
-import HeroPage from "../../pages/homePage/HeroPage";
+import HeroPage from "../../pages/homePage/heroPage";
 
 const Layout = ()=>{
     return(
